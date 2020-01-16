@@ -1,4 +1,4 @@
-# STARTER-lab02
+# STARTER-lab02_FrancieNagiki
 
 Javadoc: https://ucsb-cs56-w20.github.io/lab02_FrancieNagiki/
 Repo: https://github.com/ucsb-cs56-w20/lab02_FrancieNagiki/
